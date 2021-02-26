@@ -6,6 +6,19 @@
 -->
 
 
+  <h3 align="center">Nightwolf Valheim Edition </h3>
+
+  <p align="center">
+    All the additional steps needed for the nightwolf valheim server. 
+    
+    - Had to change the owner of the world file to steam. <br>
+    - Had to Update the network interface to just have one IP <br>
+      - Put more info here.
+    - How to update / backup / execute server commands.
+    - 
+  </p>
+</p>
+
 
 <!-- PROJECT LOGO -->
 <br />
