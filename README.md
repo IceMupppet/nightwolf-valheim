@@ -13,6 +13,9 @@
 
   <p align="center">
     All the additional steps needed for the nightwolf valheim server. 
+   
+   
+    -  sudo journalctl -u valheimserver.service | grep seed
     
     - Had to change the owner of the world file to steam. <br>
     - Had to Update the network interface to just have one IP <br>
