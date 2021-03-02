@@ -15,6 +15,11 @@
     - Had to Update the network interface to just have one IP <br>
       - Put more info here.
     - How to update / backup / execute server commands.
+    
+ <br><h3>nkkFzfrNPu</h3>
+<img src="https://assets2.rockpapershotgun.com/best%20valheim%20seeds%20ndb9wybzuw%20map.jpg/BROK/resize/1320%3E/format/jpg/quality/80/best%20valheim%20seeds%20ndb9wybzuw%20map.jpg"> 
+
+
     - Iron Spawn seed:  klW6PHmPNj
   </p>
 </p>
