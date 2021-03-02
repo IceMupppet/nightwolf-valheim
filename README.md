@@ -5,6 +5,9 @@
 [![Issues][issues-shield]][issues-url]
 -->
 
+<h2 align="center">Our seed:   BdE25nm2cD</h2>
+<a href="http://valheim-map.world/?seed=BdE25nm2cD&offset=0%2C0&zoom=0.600">Reveal Entire Map</a>
+
 
   <h3 align="center">Nightwolf Valheim Edition </h3>
 
